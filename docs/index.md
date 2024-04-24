@@ -1,8 +1,9 @@
-# Introduction
+# Home
 
-This repository contains a template that will allow you to quickly bring up a documentation site for Hyperledger _PROJECT_. In general, the template provides suggested topics that should be covered in your documentation; however, you can always add/remove content to fit the needs of the project.
+Hi, I'm Christine Belzie 
 
-The following changes need to be done to update the documentation for your project.
+and I'm a technical writer!
+I write docs users and 
 
 ## Configuration Updates
 

@@ -81,7 +81,7 @@ extra:
   version:
     provider: mike
 nav:
-  - Introduction: index.md
+  - Home: index.md
   - Concepts:
       - Concept 1: concepts/concept-1.md
       - Concept 2: concepts/concept-2.md
