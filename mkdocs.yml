@@ -84,8 +84,6 @@ nav:
   - Home: index.md
   - Resume:
       - Resume: resume/resume.md
-      - Concept 2: concepts/concept-2.md
-      - Concept 3: concepts/concept-3.md
   - Getting Started:
       - Installation: getting-started/installation.md
       - Running: getting-started/running.md
