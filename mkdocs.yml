@@ -83,7 +83,7 @@ extra:
 nav:
   - Home: index.md
   - Resume:
-      - Concept 1: concepts/concept-1.md
+      - Resume: resume/resume.md
       - Concept 2: concepts/concept-2.md
       - Concept 3: concepts/concept-3.md
   - Getting Started:
