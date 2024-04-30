@@ -1,11 +1,8 @@
 # Home
 
-Hi, I'm Christine Belzie 
+Hi, I'm Christine Belzie, a technical writer who specializes in creating  documentation that helps user gain a better experience with products.
 
-and I'm a technical writer!
-I write docs users and 
-
-## Configuration Updates
+[Look at my resume](#){ .md-button .md-button--primary }
 
 ### Site Name
 
@@ -86,7 +83,7 @@ The `docs/concepts` directory will contain information about the relevant concep
 
 ### Getting Started
 
-The files in the Getting Started topic are intended to help people get up and running with your project. 
+The files in the Getting Started topic are intended to help people get up and running with your project.
 
 * Installation (`docs/getting-started/installation.md`) - provide details on how to install the project.
 * Running (`docs/getting-started/running.md`) - provide details on how to run the project.
@@ -104,9 +101,11 @@ The `docs/tutorials` directory will contain tutorials that the use can use to le
        - Tutorial 2: tutorials/tutorial-2.md
        - Tutorial 3: tutorials/tutorial-3.md
     ```
+
 ### Guides
 
 In the Guides section, there are three placeholders:
+
 1. Operations (`docs/guides/operations.md`) - used to guide an operator of your project through critical tasks.
 2. Developers (`docs/guides/developers.md`) - used to guide a developer using your project through critical tasks.
 3. Upgrading (`docs/guides/upgrading.md`) - used to guide someone through upgrading from one version of your project to another.
@@ -134,7 +133,7 @@ The files in the Contributing topic are intended to help people who are interest
 
 * How to Contribute (`docs/contributing/how-to-contribute.md`) - provide details on how to contribute to the project.
 * Reporting a Bug (`docs/contributing/reporting-a-bug.md`) - provide details on how to report a bug.
-* Requesting a Change (`docs/contributing/requesting-a-change.md`) - provide details on how to request a change. 
+* Requesting a Change (`docs/contributing/requesting-a-change.md`) - provide details on how to request a change.
 * Asking a Question (`docs/contributing/asking-a-question.md`) - provide details on how and where to ask questions.
 
 ### FAQs
