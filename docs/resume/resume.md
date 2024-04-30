@@ -1,3 +1,3 @@
-# Concept 1
+# Christine Belzie -Resumé
 
 Explain your first concept here.
