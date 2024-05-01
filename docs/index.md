@@ -10,4 +10,4 @@ I'm a technical writer who specializes in creating documentation that helps user
 
 Click on the buttons below to learn more about me and my experiences
 
-[Look at my resume](../resume/resume.md){ .md-button .md-button--primary } [Check out my cover letter](#){: .md-button .md-button--primary }
+[Look at my resume](#){ .md-button .md-button--primary } [Check out my cover letter](#){: .md-button .md-button--primary }
