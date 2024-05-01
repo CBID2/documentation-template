@@ -2,14 +2,22 @@
 
 ## Work Experience
 
-### Broadcom - Technical Writer 4 (2019 - present)
+### OpenSauced- (2023 - present)
 
-- Collaborated with three development teams to produce effective documentation that is always delivered on time and reduces or resolves support requests.
-- Coached engineers and open source community members to create documentation that is useful and well-organized.
-- Developed documentation quality benchmarks and reviewed new documentation contributions to ensure they meet those standards.
-- Set up and maintained end-to-end documentation tooling systems for docs-as-code systems.
-- Conducted user research and reviewed documentation to identify strategic initiatives to improve the documentation.
-- Acted as a crucial communication bridge to break down silos between product, UX, engineering, sales, professional services, QA, support, marketing, and our open source community.
+**Triage Team Member(Remote), Jun 2023-Present**
+
+ Evaluating and managing incoming issues and bug reports by OpenSauced's users and open source contributors.
+
+- Collaborate with the project's founder to fix a bug that prevented users from automatically going to the Highlights section of their OpenSauced profile to post links to their open source contributions, improving user experience by 80%.
+- Implement feedback on contributors' submissions, receiving 10 out of 10 reviews
+- Fix a broken hyperlink on the project's documentation, increasing viewership to the status' website by 80%.
+ **Open Source Contributor(Remote), May 2023-Present**
+
+ Implement changes, additions,and improvements to the OpenSauced platform.
+  
+- Implement advice on discussing the impact of open source contributions in the project's intro course, which led to 294 views on their debut.
+- Utilize HTML, WCAG standards, and Markdown to author a writing style guide for OpenSauced’s Pizza Verse repository, resulting a 80% increase in formatting consistency amongst contributors.
+- Utilize TypeScript to fix a bug on the product's Chrome Extension, increasing consumer usage by 80%.
 
 ### FlexSim - Senior Technical Writer (2014 - 2019)
 
