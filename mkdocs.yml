@@ -1,4 +1,4 @@
-site_name: Christine Belzie
+site_name: "Christine Belzie"
 repo_name: hyperledger-labs/documentation-template
 repo_url: https://github.com/hyperledger/_CHRISTINE_
 theme:
@@ -82,10 +82,10 @@ extra:
     provider: mike
 nav:
   - Home: index.md
-  - Resume: 
-  - Resume: resume/resume.md
-   - Cover Letter:
-      - Cover letter: cover-letter/cover-letter.md
+  - Resume:
+      - Resume: resume/resume.md
+      - Cover Letter:
+          - Cover letter: cover-letter/cover-letter.md
   - Tutorials:
       - Introduction: tutorials/index.md
       - Tutorial 1: tutorials/tutorial-1.md
