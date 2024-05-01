@@ -84,8 +84,7 @@ nav:
   - Home: index.md
   - Resume: resume/resume.md
   - Cover Letter:
-      - Installation: getting-started/installation.md
-      - Running: getting-started/running.md
+      - Cover Letter: getting-started/installation.md
   - Tutorials:
       - Introduction: tutorials/index.md
       - Tutorial 1: tutorials/tutorial-1.md
