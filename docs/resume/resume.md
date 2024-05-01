@@ -30,7 +30,7 @@ Utilize the blogging platform, Ghost to author coding tutorials and other tech t
 - Author a comprehensive tutorial on HTML forms that received 1.2k views.
 - Author a comprehensive tutorial on writing effective commit messages that reached 10K views within two weeks of debut.
   
-  ### Pearson- Bloomington, MN (2019-2023)
+### Pearson- Bloomington, MN (2019-2023)
 
 **Writing Tutor(Remote)**
 
