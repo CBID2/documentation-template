@@ -2,7 +2,7 @@
 
 ## Work Experience
 
-### OpenSauced- (2023 - present)
+### OpenSauced- Oakland, CA (2023 - present)
 
 **Triage Team Member(Remote), Jun 2023-Present**
 
