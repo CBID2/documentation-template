@@ -11,6 +11,7 @@
 - Collaborate with the project's founder to fix a bug that prevented users from automatically going to the Highlights section of their OpenSauced profile to post links to their open source contributions, improving user experience by 80%.
 - Implement feedback on contributors' submissions, receiving 10 out of 10 reviews
 - Fix a broken hyperlink on the project's documentation, increasing viewership to the status' website by 80%.
+  
  **Open Source Contributor(Remote), May 2023-Present**
 
  Implement changes, additions,and improvements to the OpenSauced platform.
@@ -19,12 +20,14 @@
 - Utilize HTML, WCAG standards, and Markdown to author a writing style guide for OpenSauced’s Pizza Verse repository, resulting a 80% increase in formatting consistency amongst contributors.
 - Utilize TypeScript to fix a bug on the product's Chrome Extension, increasing consumer usage by 80%.
 
-### FlexSim - Senior Technical Writer (2014 - 2019)
+### freeCodeCamp- San Francisco, CA (2023-Present)
 
-- Improved brownfield documentation created by engineers to make it more user-friendly and task-oriented.
-- Collaborated with professional services to design high-quality training tutorials.
-- Built a new doc tooling system in HTML/CSS/JavaScript from scratch.
-- Created and socialized a company style guide.
+**Article Writer(Remote)**
+
+Utilize the blogging platform, Ghost to author coding tutorials and other tech topics.
+- Earned the "Top Publication Contributor of 2023" title for outstanding articles.
+- Author a comprehensive tutorial on HTML forms that received 1.2k views.
+- Author a comprehensive tutorial on writing effective commit messages that reached 10K views within two weeks of debut.
 
 ## Education
 
