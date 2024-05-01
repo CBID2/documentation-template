@@ -82,7 +82,7 @@ extra:
     provider: mike
 nav:
   - Home: index.md
-  - Resume:
+  - More Info:
       - Resume: resume/resume.md
       - Cover Letter:
           - Cover letter: cover-letter/cover-letter.md
