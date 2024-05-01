@@ -40,33 +40,11 @@ Provide personalized lessons on grammar, content development, and writing an eff
 - Attain a 95% satisfaction rate amongst students by commenting on their writing strengths before suggesting areas of improvement.
 - Modify tutoring strategies based on supervisor’s suggestions to provide effective feedback to students, which led to a 95% student success rate.
 
-## Education
-
-### Utah Valley University - Lecturer (2008 - 2014)
-
-- Taught technical writing courses for developers and academic writing courses for first-year students.
-
-### Yahoo - Technical Writer (2006 - 2008)
-
-- Created user guides and videos for more than 40 internal DevOps tools.
-
 ## Skills
 
-- Docs-as-code tool chains: Markdown, reStructured text, static site generators (85%)
-- CI/CD: Git, GitHub, GitLab (80%)
-- Unix systems: Linux, bash, and command-line interfaces (60%)
-- Tech writing content management systems: DITA, Oxygen, XML, SDL Tridion (50%)
-- Programming languages: Python and JavaScript (40%)
-- Visual design tools: Photoshop, Illustrator, Figma (60%)
+- Proficient in Microsoft Office Suite, GitHub, Git, Ghost, Docusaurus, and Google Suite Apps
+- Proficient in HTML, Markdown, CSS, and MDX
 
-## Community Service
+## Education
 
-### The Good Docs Project - Community Manager (2020 - present)
-
-- Managed a rapidly growing open-source community of 75+ technical writers and developers dedicated to improving documentation in open source.
-- Led a user research project to gather data from 33 technical writers and collaborated with project stakeholders to turn the insights into the project's product roadmap.
-- Successfully co-led a 3-month project to migrate the project from GitHub to GitLab with no data loss or interruptions.
-
-### Write the Docs - Staff, Meetup Program Coordinator (2020 - 2023)
-
-- Created and led the WTD Quorum program, which provided quarterly online education meetups and social networking events for more than 1,000 technical writers in the U.S., Canada, and Australia.
+**State University of New York at New Paltz – Bachelor of Arts, English**
