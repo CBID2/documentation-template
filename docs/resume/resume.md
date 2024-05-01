@@ -25,6 +25,7 @@
 **Article Writer(Remote)**
 
 Utilize the blogging platform, Ghost to author coding tutorials and other tech topics.
+
 - Earned the "Top Publication Contributor of 2023" title for outstanding articles.
 - Author a comprehensive tutorial on HTML forms that received 1.2k views.
 - Author a comprehensive tutorial on writing effective commit messages that reached 10K views within two weeks of debut.
