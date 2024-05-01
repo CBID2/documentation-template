@@ -83,8 +83,8 @@ extra:
 nav:
   - Home: index.md
   - Resume: resume/resume.md
-  - Cover Letter:
-      - Cover Letter: cover-letter/cover-letter.md
+   - Cover Letter:
+      - Cover letter: tutorials/tutorial-1.md
   - Tutorials:
       - Introduction: tutorials/index.md
       - Tutorial 1: tutorials/tutorial-1.md
