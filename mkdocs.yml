@@ -86,23 +86,23 @@ nav:
       - Resume: resume/resume.md
       - Cover Letter:
           - Cover letter: cover-letter/cover-letter.md
-  - Tutorials:
-      - Introduction: tutorials/index.md
-      - Tutorial 1: tutorials/tutorial-1.md
-      - Tutorial 2: tutorials/tutorial-2.md
-      - Tutorial 3: tutorials/tutorial-3.md
-  - Guides:
-      - Operations: guides/operations.md
-      - Developers: guides/developers.md
-      - Upgrading: guides/upgrading.md
-  - References:
-      - Architecture: references/architecture.md
-      - Commands: references/commands.md
-      - Roadmap: references/roadmap.md
-  - Contributing:
-      - How to Contribute: contributing/how-to-contribute.md
-      - Reporting a Bug: contributing/reporting-a-bug.md
-      - Requesting a Change: contributing/requesting-a-change.md
-      - Asking a Question: contributing/asking-a-question.md
-  - FAQs: faqs.md
-  - Glossary: glossary.md
+      # - Writing Samples:
+      #   - Introduction: tutorials/index.md
+      #   - Tutorial 1: tutorials/tutorial-1.md
+      #   - Tutorial 2: tutorials/tutorial-2.md
+      #   - Tutorial 3: tutorials/tutorial-3.md
+      # - Projects:
+      #   - Operations: guides/operations.md
+      #   - Developers: guides/developers.md
+      #   - Upgrading: guides/upgrading.md
+      # - Blog:
+      #   - Architecture: references/architecture.md
+      #   - Commands: references/commands.md
+      #   - Roadmap: references/roadmap.md
+      # - Contributing:
+      #   - How to Contribute: contributing/how-to-contribute.md
+      #   - Reporting a Bug: contributing/reporting-a-bug.md
+      #   - Requesting a Change: contributing/requesting-a-change.md
+      #   - Asking a Question: contributing/asking-a-question.md
+      # - FAQs: faqs.md
+      # - Glossary: glossary.md
