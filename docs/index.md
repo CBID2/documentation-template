@@ -6,7 +6,7 @@ Hi, I'm Christine Belzie! 👋
 
 I'm a technical writer who specializes in creating documentation that helps users gain a better experience with products.
 
-## Learn more about me
+## Tell me More! 😄
 
 Click on the buttons below to learn more about me and my experiences
 
