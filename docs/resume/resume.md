@@ -29,6 +29,16 @@ Utilize the blogging platform, Ghost to author coding tutorials and other tech t
 - Earned the "Top Publication Contributor of 2023" title for outstanding articles.
 - Author a comprehensive tutorial on HTML forms that received 1.2k views.
 - Author a comprehensive tutorial on writing effective commit messages that reached 10K views within two weeks of debut.
+  
+  ### Pearson- Bloomington, MN (2019-2023)
+
+**Writing Tutor(Remote)**
+
+Provide personalized lessons on grammar, content development, and writing an effective thesis, introduction, and conclusion to students in asynchronous sessions.
+
+- Implement creative instructional strategies during 30-35 min asynchronous tutoring sessions that led to a 95% productivity rate.
+- Attain a 95% satisfaction rate amongst students by commenting on their writing strengths before suggesting areas of improvement.
+- Modify tutoring strategies based on supervisor’s suggestions to provide effective feedback to students, which led to a 95% student success rate.
 
 ## Education
 
