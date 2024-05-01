@@ -83,7 +83,7 @@ extra:
 nav:
   - Home: index.md
   - More Info:
-      - Resume: resume/resume.md
+      - Resume: more-info/resume.md
       - Cover Letter:
           - Cover letter: cover-letter/cover-letter.md
       # - Writing Samples:
