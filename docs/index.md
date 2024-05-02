@@ -2,7 +2,7 @@
 
 ![Picture of me](./assets/profile-pic.png)
 
-Hi, I'm Christine Belzie! 👋
+👋 Hi, I'm Christine Belzie! Nice to meet you!
 
 ## Who are you? 🤔
 
