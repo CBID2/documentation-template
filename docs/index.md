@@ -1,7 +1,7 @@
 # Home
 
 Hi, I'm Christine Belzie! 👋
-
+![Picture of me](./assets/profile-pic.png)
 ## Who are you? 🤔
 
 I'm a technical writer who specializes in creating documentation that helps users gain a better experience with products.
